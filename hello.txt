@@ -12,5 +12,8 @@ hello hhh!
 hello hhh!
 hello hhh!
 hello hhh!
+<<<<<<< HEAD
 hello hhh!master
-hello hhh!
+=======
+hello hhh!hot-fix
+>>>>>>> hot-fix
